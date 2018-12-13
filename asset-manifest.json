@@ -1,7 +1,7 @@
 {
   "main.css": "/friendship/static/css/main.00f2cd0e.chunk.css",
-  "main.js": "/friendship/static/js/main.0f2b33ae.chunk.js",
-  "main.js.map": "/friendship/static/js/main.0f2b33ae.chunk.js.map",
+  "main.js": "/friendship/static/js/main.63848afe.chunk.js",
+  "main.js.map": "/friendship/static/js/main.63848afe.chunk.js.map",
   "static/js/1.82dafdb5.chunk.js": "/friendship/static/js/1.82dafdb5.chunk.js",
   "static/js/1.82dafdb5.chunk.js.map": "/friendship/static/js/1.82dafdb5.chunk.js.map",
   "runtime~main.js": "/friendship/static/js/runtime~main.523e8508.js",
@@ -9,6 +9,6 @@
   "static/media/logo.svg": "/friendship/static/media/logo.5d5d9eef.svg",
   "static/css/main.00f2cd0e.chunk.css.map": "/friendship/static/css/main.00f2cd0e.chunk.css.map",
   "index.html": "/friendship/index.html",
-  "precache-manifest.3f95cd71aae3e0c992233892f210bdf0.js": "/friendship/precache-manifest.3f95cd71aae3e0c992233892f210bdf0.js",
+  "precache-manifest.af25744f5d19ec9ba62b7121f742031f.js": "/friendship/precache-manifest.af25744f5d19ec9ba62b7121f742031f.js",
   "service-worker.js": "/friendship/service-worker.js"
 }
